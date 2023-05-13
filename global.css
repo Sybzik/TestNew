@@ -2,13 +2,11 @@ body {
   margin: 0;
   line-height: normal;
 }
-
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+body {
+  font-family: 'Montserrat', sans-serif;
+}
 :root {
-  /* fonts */
-  --font-nunito-sans: "Nunito Sans";
-  --font-poppins: Poppins;
-  --font-fontawesome: FontAwesome;
-  --font-ibm-plex-serif: "IBM Plex Serif";
 
   /* font sizes */
   --font-size-base: 16px;
